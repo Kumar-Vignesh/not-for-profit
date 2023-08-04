@@ -1,3 +1,4 @@
+```
 Invoke-WebRequest -Uri https://aka.ms/wslubuntu2004 -OutFile Ubuntu.appx -UseBasicParsing
 
 curl.exe -L -o ubuntu-2004.appx https://aka.ms/wslubuntu2004
@@ -36,4 +37,4 @@ SUSE-Linux-Enterprise-Server-15-SP4    SUSE Linux Enterprise Server 15 SP4
 SUSE-Linux-Enterprise-15-SP5           SUSE Linux Enterprise 15 SP5
 openSUSE-Tumbleweed                    openSUSE Tumbleweed
 PS C:\Windows\system32>
-
+```
